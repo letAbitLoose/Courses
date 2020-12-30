@@ -75,17 +75,17 @@
 - 22 hours
 - [Course content](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
-### 4. Socket.IO (with websockets) - the details. (socket io v2)
+### 3. Socket.IO (with websockets) - the details. (socket io v2)
 
 - 14 hours
 - [Course content](https://www.udemy.com/course/socketio-with-websockets-the-details/)
 
-### 5. Universal React with Next.js - The Ultimate Guide
+### 4. Universal React with Next.js - The Ultimate Guide
 
 - 9.5 hours
 - [Course content](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/)
 
-### 6. Java Programming Masterclass
+### 5. Java Programming Masterclass
 
 - 80 hours
 - [Course content](https://www.udemy.com/course/java-the-complete-java-developer-course/)
