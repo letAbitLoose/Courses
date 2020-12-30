@@ -75,20 +75,15 @@
 - 22 hours
 - [Course content](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
-### 3. NestJS Zero to Hero - Modern TypeScript Back-end
+### 4. Socket.IO (with websockets) - the details. (socket io v2)
 
-- 8 hours
-- [Course content](https://www.udemy.com/course/nestjs-zero-to-hero/)
+- 14 hours
+- [Course content](https://www.udemy.com/course/socketio-with-websockets-the-details/)
 
-### 4. Serverless Framework: Node.js, AWS & Microservices
+### 5. Universal React with Next.js - The Ultimate Guide
 
-- 5.5 hours
-- [Course content](https://www.udemy.com/course/serverless-framework/)
-
-### 5. Google's Go (golang) Programming Language
-
-- 46 hours
-- [Course content](https://www.udemy.com/course/learn-how-to-code/)
+- 9.5 hours
+- [Course content](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/)
 
 ### 6. Java Programming Masterclass
 
